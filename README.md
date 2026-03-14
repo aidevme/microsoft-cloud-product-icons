@@ -8,6 +8,7 @@ A curated collection of official Microsoft Cloud product icons in SVG and PNG fo
 
 ## Table of Contents
 
+- [Azure](#azure)
 - [Copilot](#copilot)
 - [Dynamics 365](#dynamics-365)
 - [Entra](#entra)
@@ -18,6 +19,14 @@ A curated collection of official Microsoft Cloud product icons in SVG and PNG fo
 - [Security](#security)
 - [Viva](#viva)
 - [License](#license)
+
+---
+
+## Azure
+
+Icons for Microsoft Azure products and services, organized by subcategory.
+
+📁 [`assets/Azure/`](assets/Azure/) · 📄 [View all icons](documentation/azure.md)
 
 ---
 
